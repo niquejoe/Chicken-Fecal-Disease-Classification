@@ -1,4 +1,4 @@
-# Chicken-Fecal-Disease-Classification
+# Chicken Fecal Disease Classification
 <p>This repository is a sample code created to demonstrate how to classify different diseases using computer vision on chicken Feces</p> 
 <h4>Requirements</h4>
 <ul>
